@@ -3,7 +3,6 @@
 An AI-powered platform designed to provide immediate mental health support, resource connection, and crisis intervention for individuals seeking accessible, affordable, and culturally sensitive mental health services.
 
 ## Additional Documentation 📄
-- **Proposal Document**: [Download Here (HealAI_Proposal.docx)](https://docs.google.com/document/d/1yrYFnhgBZAAfEFc-e3isAOmUmOT51m2z/edit?usp=sharing&ouid=107589746992879802752&rtpof=true&sd=true)
 - [Watch Here (Doctor View)](https://drive.google.com/file/d/1WYn8ppoBfVHGonP4qVWOVFlASCEUgvOR/view?usp=sharing)
 - [Watch Here (Patient View)](https://drive.google.com/file/d/1YQiC5sVuCsGktwmpVOpYbGfAinbajvXw/view?usp=sharing)
 
